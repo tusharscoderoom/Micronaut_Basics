@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.tdhiman
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [app-name, groovy-maven-plus-plugin, http-client-test, java, java-application, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, openapi, properties, readme, serialization-jackson, shade, spock, static-resources, swagger-ui]
